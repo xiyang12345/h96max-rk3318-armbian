@@ -18,3 +18,6 @@ ophub:https://github.com/ophub/amlogic-s9xxx-armbian/
 
 
 jock rk3318刷armbian教程:https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/
+
+
+注：本人不推荐买任何rk3318cpu的产品，正如视频中所说，这盒子几乎没有任何资料，甚至rk3318这款芯片连瑞芯微官网都查不到任何信息，另据jock所说rk3318大概率是报废的rk3328芯片做的
