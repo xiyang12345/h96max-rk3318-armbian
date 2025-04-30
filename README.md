@@ -1,14 +1,9 @@
 # H96 Max RK3318 Armbian 项目 📺
 
-[![GitHub Releases](https://img.shields.io/github/downloads/你的用户名/仓库名/total?style=flat-square)](https://github.com/你的用户名/h96max-rk3318-armbian/releases)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-
-为 H96 Max RK3318 电视盒子刷入 Armbian 系统的完整资源库
-
 ---
 
 ## 📺 视频演示
-[![点击观看刷机教程](https://i0.hdslb.com/bfs/archive/5d87015cb2ff47dc5ab5b4be3d019511d3a2c5f6.jpg)](https://www.bilibili.com/video/BV19HaxeiEDz/?share_source=copy_web&vd_source=9ac5c9486c0ff011dce5c5da8a630965)  
+[![点击观看刷机教程](https://i1.hdslb.com/bfs/archive/5d87015cb2ff47dc5ab5b4be3d019511d3a2c5f6.jpg)](https://www.bilibili.com/video/BV19HaxeiEDz/?share_source=copy_web&vd_source=9ac5c9486c0ff011dce5c5da8a630965)  
 _推荐在刷机前完整观看视频教程_
 
 ---
