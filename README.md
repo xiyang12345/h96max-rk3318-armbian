@@ -10,6 +10,9 @@ _推荐在刷机前完整观看视频教程_
 
 ## 🔧 固件与工具
 
+### 启动盘制作工具
+⚙[balenaEtcher](https://etcher.balena.io/)
+
 ### 应急资源
 ⚠️ **救砖工具与稳定固件**  
 请前往 [Releases](https://github.com/xiyang12345/h96max-rk3318-armbian/releases) 下载全套救砖工具包
@@ -27,6 +30,9 @@ https://www.h96tvbox.com/firmware-download/
 | **Jock**     | 原链接已失效  | [社区新版镜像](https://github.com/armbian/community/releases) → 搜索 `rk3318` |
 | **Ophub**    | 持续维护      | [Amlogic S9xxx 系列镜像](https://github.com/ophub/amlogic-s9xxx-armbian/) （推荐） |
 
+🛠️ **Multitool下载**  
+RK3318/RK3328盒子armbian镜像刷写工具：  
+[Multitool 下载](https://users.armbian.com/jock/web/rk3318/multitool.img.xz)  
 ---
 
 ## 📚 教程文档
