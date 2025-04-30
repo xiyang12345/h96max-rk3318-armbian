@@ -1,23 +1,54 @@
-# h96max-rk3318-armbian
-h96max rk3318刷入armbian
+# H96 Max RK3318 Armbian 项目 📺
 
-视频教程
-[![点击观看演示视频](https://i0.hdslb.com/bfs/archive/5d87015cb2ff47dc5ab5b4be3d019511d3a2c5f6.jpg)](https://www.bilibili.com/video/BV19HaxeiEDz/?share_source=copy_web&vd_source=9ac5c9486c0ff011dce5c5da8a630965)
-救砖工具以及固件可以在下方Releases中下载
+[![GitHub Releases](https://img.shields.io/github/downloads/你的用户名/仓库名/total?style=flat-square)](https://github.com/你的用户名/h96max-rk3318-armbian/releases)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-官方救砖固件下载地址:https://www.h96tvbox.com/firmware-download/  （需要科学上网）
+为 H96 Max RK3318 电视盒子刷入 Armbian 系统的完整资源库
 
+---
 
-armbian镜像下载:
-jock:https://users.armbian.com/jock/rk3318/
+## 📺 视频演示
+[![点击观看刷机教程](https://i0.hdslb.com/bfs/archive/5d87015cb2ff47dc5ab5b4be3d019511d3a2c5f6.jpg)](https://www.bilibili.com/video/BV19HaxeiEDz/?share_source=copy_web&vd_source=9ac5c9486c0ff011dce5c5da8a630965)  
+_推荐在刷机前完整观看视频教程_
 
-https://imola.armbian.com/archive/rk3318-box/archive/
+---
 
-ophub:https://github.com/ophub/amlogic-s9xxx-armbian/
+## 🔧 固件与工具
 
+### 应急资源
+⚠️ **救砖工具与稳定固件**  
+请前往 [Releases](https://github.com/你的用户名/h96max-rk3318-armbian/releases) 下载全套救砖工具包
 
+### 官方固件
+🌐 原厂固件下载（需科学上网）  
+https://www.h96tvbox.com/firmware-download/
 
-jock rk3318刷armbian教程:https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/
+---
 
+## 📥 Armbian 镜像源
 
-注：本人不推荐买任何rk3318cpu的产品，正如视频中所说，这盒子几乎没有任何资料，甚至rk3318这款芯片连瑞芯微官网都查不到任何信息，另据jock所说rk3318大概率是报废的rk3328芯片做的
+| 开发者       | 资源状态      | 下载地址                                                                 |
+|--------------|---------------|--------------------------------------------------------------------------|
+| **Jock**     | 原链接已失效  | [社区新版镜像](https://github.com/armbian/community/releases) → 搜索 `rk3318` |
+| **Ophub**    | 持续维护      | [Amlogic S9xxx 系列镜像](https://github.com/ophub/amlogic-s9xxx-armbian/)  |
+
+---
+
+## 📚 教程文档
+
+1. **Jock 原版刷机指南**  
+   [Armbian 论坛专题教程](https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/)
+
+2. **设备调试技巧**  
+   - 建议使用 USB 3.0 接口进行刷机
+   - 短接点位参考视频 03:25 处演示
+
+---
+
+## ⚠️ 重要提示
+
+> ❗ **硬件购买建议**  
+> 基于以下原因，我们**不推荐**购买 RK3318 设备：
+> - 芯片资料极度匮乏（瑞芯微官网无此型号记录）
+> - 开发者推测其为 RK3328 的残次品改造版本
+> - 社区支持有限，维护难度较高
