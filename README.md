@@ -12,9 +12,9 @@ _推荐在刷机前完整观看视频教程_
 
 ### 应急资源
 ⚠️ **救砖工具与稳定固件**  
-请前往 [Releases](https://github.com/你的用户名/h96max-rk3318-armbian/releases) 下载全套救砖工具包
+请前往 [Releases](https://github.com/xiyang12345/h96max-rk3318-armbian/releases) 下载全套救砖工具包
 
-### 官方固件
+### 官方固件（Releases中已有）
 🌐 原厂固件下载（需科学上网）  
 https://www.h96tvbox.com/firmware-download/
 
@@ -25,7 +25,7 @@ https://www.h96tvbox.com/firmware-download/
 | 开发者       | 资源状态      | 下载地址                                                                 |
 |--------------|---------------|--------------------------------------------------------------------------|
 | **Jock**     | 原链接已失效  | [社区新版镜像](https://github.com/armbian/community/releases) → 搜索 `rk3318` |
-| **Ophub**    | 持续维护      | [Amlogic S9xxx 系列镜像](https://github.com/ophub/amlogic-s9xxx-armbian/)  |
+| **Ophub**    | 持续维护      | [Amlogic S9xxx 系列镜像](https://github.com/ophub/amlogic-s9xxx-armbian/) （推荐） |
 
 ---
 
@@ -34,9 +34,6 @@ https://www.h96tvbox.com/firmware-download/
 1. **Jock 原版刷机指南**  
    [Armbian 论坛专题教程](https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/)
 
-2. **设备调试技巧**  
-   - 建议使用 USB 3.0 接口进行刷机
-   - 短接点位参考视频 03:25 处演示
 
 ---
 
