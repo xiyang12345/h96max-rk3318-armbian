@@ -33,7 +33,6 @@ https://www.h96tvbox.com/firmware-download/
 🛠️ **Multitool下载**  
 RK3318/RK3328盒子armbian镜像刷写工具：  
 [Multitool 下载](https://users.armbian.com/users.armbian.com/jock/web/rk3318/multitool.img.xz) 
-<若失效可以在仓库文件里下载>
 ---
 
 ## 📚 教程文档
