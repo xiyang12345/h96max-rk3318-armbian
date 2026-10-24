@@ -31,8 +31,14 @@ https://www.h96tvbox.com/firmware-download/
 | **Ophub**    | 持续维护      | [Amlogic S9xxx 系列镜像](https://github.com/ophub/amlogic-s9xxx-armbian/) （推荐） |
 
 🛠️ **Multitool下载**  
-RK3318/RK3328盒子armbian镜像刷写工具：  
-[Multitool 下载](https://users.armbian.com/users.armbian.com/jock/web/rk3318/multitool.img.xz) 
+RK3318/RK3328盒子armbian镜像刷写工具：
+
+- ~~原链接（已失效）：[multitool.img.xz](https://users.armbian.com/users.armbian.com/jock/web/rk3318/multitool.img.xz)~~
+- 新链接（本仓库备份）：[multitool.img.xz](https://github.com/xiyang12345/h96max-rk3318-armbian/blob/main/multitool.img.xz)
+- SHA-256：`9CE854059656F32C70CCB2D661C6C25EE0577BAD5C507DDCFA587B2E1659449A`
+
+> 🙏 原链接已失效，感谢 [互联网档案馆（Internet Archive）](https://web.archive.org/) 提供的备份。
+
 ---
 
 ## 📚 教程文档
